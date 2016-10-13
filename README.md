@@ -1,9 +1,6 @@
 docker-magento-php-fpm
 =============================
 
-[![Docker Stars](https://img.shields.io/docker/stars/ojhaujjwal/docker-magento-php-fpm.svg)][hub]
-[![Docker Pulls](https://img.shields.io/docker/pulls/ojhaujjwal/docker-magento-php-fpm.svg)][hub]
-
 Docker image for magento php fpm. It contains php7 and all the required php extensions for running magento on php-fpm.
 
 ## Installed components
