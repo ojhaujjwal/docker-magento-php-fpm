@@ -21,5 +21,10 @@ Docker image for magento php fpm. It contains php7 and all the required php exte
 
 Base Image: [php:7.0-fpm](https://hub.docker.com/_/php/)
 
+## Docker Pull Command
+```
+docker pull ojhaujjwal/magento-php-fpm
+```
+
 ## Related Projects
 * [docker-magento-php-cli](https://github.com/ojhaujjwal/docker-magento-php-cli)
